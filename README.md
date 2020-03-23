@@ -1,0 +1,1 @@
+# week6_day1_homework_js_scope
